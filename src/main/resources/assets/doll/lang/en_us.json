@@ -1,0 +1,13 @@
+{
+  "itemGroup.doll": "Example Mod Tab",
+  "block.doll.example_block": "Example Block",
+  "item.doll.example_item": "Example Item",
+
+  "doll.configuration.title": "Example Mod Configs",
+  "doll.configuration.section.doll.common.toml": "Example Mod Configs",
+  "doll.configuration.section.doll.common.toml.title": "Example Mod Configs",
+  "doll.configuration.items": "Item List",
+  "doll.configuration.logDirtBlock": "Log Dirt Block",
+  "doll.configuration.magicNumberIntroduction": "Magic Number Text",
+  "doll.configuration.magicNumber": "Magic Number"
+}
