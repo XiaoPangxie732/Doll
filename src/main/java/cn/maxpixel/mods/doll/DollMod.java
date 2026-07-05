@@ -33,7 +33,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 @Mod(DollMod.MODID)
 public class DollMod {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "doll";
+    public static final String MODID = "mpsdoll";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
     // Create a Deferred Register to hold Blocks which will all be registered under the "examplemod" namespace

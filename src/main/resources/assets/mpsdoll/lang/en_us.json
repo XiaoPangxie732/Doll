@@ -1,0 +1,13 @@
+{
+  "itemGroup.mpsdoll": "Example Mod Tab",
+  "block.mpsdoll.example_block": "Example Block",
+  "item.mpsdoll.example_item": "Example Item",
+
+  "mpsdoll.configuration.title": "Example Mod Configs",
+  "mpsdoll.configuration.section.mpsdoll.common.toml": "Example Mod Configs",
+  "mpsdoll.configuration.section.mpsdoll.common.toml.title": "Example Mod Configs",
+  "mpsdoll.configuration.items": "Item List",
+  "mpsdoll.configuration.logDirtBlock": "Log Dirt Block",
+  "mpsdoll.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mpsdoll.configuration.magicNumber": "Magic Number"
+}
